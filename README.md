@@ -3,7 +3,7 @@ new line
 INSTALLING VOLTTRON SOURCE
 1.	Run sudo apt-get update
 2.	Run sudo apt-get install build-essential python-dev openssl libssl-dev libevent-dev git
-3.	Run git clone https://github.com/VOLTTRON/volttron
+3.	Run git clone https://github.com/groupnire/ESTCP-volttorn-EMS-agents.git
 4.	Run cd <volttron clone directory>
 5.	Run python bootstrap.py
 6.	Run source env/bin/activate
